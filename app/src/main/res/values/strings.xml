@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">BoccasileSPLaboV</string>
+
+    <string-array name="arrayDeRoles">
+
+        <item>Supervisor</item>
+
+        <item>Construction Manager</item>
+
+        <item>Project Manager</item>
+
+    </string-array>
+
+</resources>
